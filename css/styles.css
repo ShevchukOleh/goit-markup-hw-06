@@ -647,8 +647,7 @@ ul {
     transition: border-color 250ms var(--timing-function);
 }
 
-.subscription-email:focus,
-.subscription-email:hover{
+.subscription-email:focus {
     border-color: #188CE8;
 }
 
